@@ -1,0 +1,78 @@
+.main-banner {
+  background-image: none;
+  background-color: #000035;
+}
+
+/* */
+
+.about-part {
+  background-color: #000042;
+}
+
+.service_sec {
+  background-color: #000035;
+}
+
+.services-box .frontend {
+  background: #29355b;
+  padding: 30px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -o-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+}
+
+.services-box .backend {
+  background: #29355b;
+  padding: 30px;
+  padding: 30px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+
+.token_sec,
+.team_sec {
+  background-color: #000042;
+}
+
+.road_sec {
+  background-color: #000035;
+}
+
+.faq_sec,
+.footer_bg {
+  background-color: #000035;
+}
+
+.accordion-box {
+  background: #29355b;
+  padding: 25px;
+  margin-bottom: 20px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.contact-part .form-detail .form-control {
+  background: #29355b;
+  border: none;
+  height: 50px;
+  color: #fff;
+  padding-left: 15px;
+}
+
+.contact_sec {
+  background-color: #000042;
+}
