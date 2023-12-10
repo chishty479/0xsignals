@@ -1,5 +1,8 @@
 .main-banner {
   background-image: none;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(./images/ox\ signals.gif);
+  background-position: center;
   background-color: #000035;
 }
 
